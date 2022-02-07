@@ -35,4 +35,8 @@ class constructor.
 
 args: a string (or list) argument containing a mathematical expression.
 
-## solve (
+## solve(args)
+This method takes a string (or list) as arguments containing mathematical computations, it is where after the InStringMath object is instantiated.
+
+## equals()
+This method takes no arguments, it return a solution to mathematical expression.
