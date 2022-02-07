@@ -8,7 +8,7 @@ This algorithm is available in both Python and Javascript: they are possible dir
 CONTRIBUTIONS OF DIFFERENT FORMS TO THIS REPOSITORY ARE WELCOME
 
 ## Author
-Jacob Mugala
+Jacob M. Mugala
 
 ## License
 Copyright 2022 Jacob M. Mugala
