@@ -3,6 +3,8 @@ This program  (algorithm) allows you to bundle basic mathematical computations: 
 
 It is a simple algorithm which is open to any  (if available) enhancements. It is licensed to be permissive for that.
 
+This algorithm is available in both Python and Javascript: they are possible direct translation of one another.
+
 ## Author
 Jacob Mugala
 
