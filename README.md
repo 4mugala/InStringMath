@@ -28,7 +28,9 @@ limitations under the License.
 # API
 This is for the InStringMath class -- main class of the program the rest classes just facilitate the computation.
 
-## InStringMath(args)
+__Note:__ optional arguments are indicated in square brackets.
+
+## InStringMath([args])
 class constructor.
 
 args: a string (or list) argument containing a mathematical expression.
