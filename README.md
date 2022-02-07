@@ -29,7 +29,8 @@ limitations under the License.
 This is for the InStringMath class -- main class of the program the rest classes just facilitate the computation.
 
 ## InStringMath(args)
-class constructor:
-  args: a string (or list) argument containing a mathematical expression.
+class constructor.
+
+args: a string (or list) argument containing a mathematical expression.
 
 ## solve (
