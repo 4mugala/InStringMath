@@ -1,4 +1,4 @@
-# InStringMath
+# About
 This program  (algorithm) allows you to bundle basic mathematical computations: addition, subtraction, multiplication, division and exponential. All these being internally inter-converted to get to a possible precise solution.
 
 It is a simple algorithm which is open to any  (if available) enhancements. It is licensed to be permissive for that.
@@ -24,3 +24,12 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# API
+This is for the InStringMath class -- main class of the program the rest classes just facilitate the computation.
+
+## InStringMath(args)
+class constructor:
+  args: a string (or list) argument containing a mathematical expression.
+
+## solve (
