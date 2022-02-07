@@ -5,7 +5,7 @@ It is a simple algorithm which is open to any  (if available) enhancements. It i
 
 This algorithm is available in both Python and Javascript: they are possible direct translation of one another.
 
-CONTRIBUTIONS OF DIFFERENT FORMS TO THIS REPOSITORY ARE WELCOME
+CONTRIBUTIONS OF ANY FORMS TO THIS REPOSITORY ARE WELCOME
 
 ## Author
 Jacob M. Mugala
