@@ -28,7 +28,7 @@ limitations under the License.
 # API
 This is for the InStringMath class -- main class of the program the rest classes just facilitate the computation.
 
-__Note:__ optional arguments are indicated in square brackets.
+__Note:__ optional arguments are indicated in square brackets. The methods listed below are the only ones to interact with (the other methods are supposed to be private whatsoever).
 
 ## InStringMath([args])
 class constructor.
