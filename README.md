@@ -46,9 +46,12 @@ In python:
 
     str_math = InStringMath("5*5")
     print(str_math.equals()) # Outputs 25
-    str_math.solve ("9^2-80")
-    print(str_math.equals())# Outputs 1
+    str_math.solve("9^2-80")
+    print(str_math.equals()) # Outputs 1
 
 In Javascript:
 
-    
+    let strMath = new InStringMath("5*5");
+    console.log(strMath.equals()); // Outputs 25
+    strMath.solve("9^2-80");
+    console.log(strMath.equals()); // Outputs 1
