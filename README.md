@@ -54,8 +54,8 @@ In python:
 In Javascript:
 
 ```javascript 
-    let strMath = new InStringMath("5*5");
-    console.log(strMath.equals()); // Outputs 25
-    strMath.solve("9^2-80");
-    console.log(strMath.equals()); // Outputs 1
+   let strMath = new InStringMath("5*5");
+   console.log(strMath.equals()); // Outputs 25
+   strMath.solve("9^2-80");
+   console.log(strMath.equals()); // Outputs 1
 ```
