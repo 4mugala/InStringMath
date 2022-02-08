@@ -44,11 +44,12 @@ This method takes no arguments, it return a solution to mathematical expression.
 ## Usage example
 In python:
 
-    python
+    ```python
     str_math = InStringMath("5*5")
     print(str_math.equals()) # Outputs 25
     str_math.solve("9^2-80")
     print(str_math.equals()) # Outputs 1
+    ```
 
 In Javascript:
 
